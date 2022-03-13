@@ -1,0 +1,62 @@
+{
+  "id": "a21bbd5a-0026-4ca8-8cba-55a8e4602b6a",
+  "brand": "Lenovo",
+  "name": "Thinkpad P1",
+  "cpu": {
+    "brand": "Intel",
+    "name": "Core i9-9980HK",
+    "number_cores": 4,
+    "number_threads": 5,
+    "min_ghz": 2.896418783072899,
+    "max_ghz": 3.1692643060477863
+  },
+  "ram": {
+    "value": "10",
+    "unit": "GIGABYTE"
+  },
+  "gpus": [
+    {
+      "brand": "Nvidia",
+      "name": "RTX 2060",
+      "min_ghz": 1.3260405539150635,
+      "max_ghz": 1.7937333235965975,
+      "memory": {
+        "value": "5",
+        "unit": "GIGABYTE"
+      }
+    }
+  ],
+  "storages": [
+    {
+      "driver": "SSD",
+      "memory": {
+        "value": "877",
+        "unit": "GIGABYTE"
+      }
+    },
+    {
+      "driver": "HDD",
+      "memory": {
+        "value": "4",
+        "unit": "TERABYTE"
+      }
+    }
+  ],
+  "screen": {
+    "size_inch": 14.261883,
+    "resolution": {
+      "width": 4460,
+      "height": 2509
+    },
+    "panel": "IPS",
+    "multitouch": false
+  },
+  "keyboard": {
+    "layout": "AZERTY",
+    "backlit": true
+  },
+  "weight_kg": 1.3653486321184647,
+  "price_usd": 1601.4022099381848,
+  "release_year": 2016,
+  "updated_at": "2022-03-14T02:27:59.040513Z"
+}
